@@ -2,11 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Vision AI - Assisting the Visually Impaired</title>
 </head>
 <body style="font-family:Arial, sans-serif; line-height:1.6; color:#333; padding:20px; max-width:850px; margin:auto;">
 
-  <h1>👁️ Vision AI: Assisting the Visually Impaired Using AI</h1>
+  <h1>👁️ Vision AI: Assisting the Visually Impaired Indiviuals Using AI</h1>
 
   <h2>📘 Project Overview</h2>
   <p>
@@ -80,13 +79,13 @@
   <h2>📷 Screenshots (Add yours here)</h2>
   <ul>
     <li>Main Page of Application</li>
-    <img src="images/main_page.png" alt="Main Page" width="400" />
+    <img src="images/web_interface.png" alt="Main Page" width="400" />
     <li>Scene Description Example</li>
     <img src="images/scene_description.png" alt="Scene Description" width="400" />
     <li>Object Detection Output</li>
     <img src="images/object_detection.png" alt="Object Detection" width="400" />
     <li>Extracted Text and Audio Output</li>
-    <img src="images/text_extraction.png" alt="Text Extraction" width="400" />
+    <img src="images/extract_text.png" alt="Text Extraction" width="400" />
   </ul>
 
   <h2>🙌 Conclusion</h2>
